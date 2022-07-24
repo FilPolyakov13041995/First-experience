@@ -139,7 +139,7 @@ ul.list__menu li:last-child {
 .services {
     padding-bottom: 100px;
 }
-.fill {
+.zigzag__picture {
     padding-top: 100px;
     text-align: center;
     margin-bottom: 15px;
@@ -207,7 +207,7 @@ ul.list__menu li:last-child {
     background-color:  #F4F3F0;
     border-radius: 20px;
 }
-.fill__two {
+.zigzag__picture-2 {
     padding-top: 100px;
     text-align: center;
     margin-bottom: 15px;
@@ -456,7 +456,7 @@ form {
         text-align: center;
         padding: 10px 0;
     }
-    .fill {
+    .zigzag__picture {
         padding-top: 50px;
     }
     br.br__none {
@@ -473,7 +473,7 @@ form {
     .services {
         padding-bottom: 50px;
     }
-    .fill__two {
+    .zigzag__picture-2 {
         padding-top: 50px;
     }
     .text__description-two {
@@ -563,7 +563,7 @@ form {
         text-align: center;
         padding: 10px 0;
     }
-    .fill {
+    .zigzag__picture {
         padding-top: 50px;
     }
     br.br__none {
@@ -580,7 +580,7 @@ form {
     .services {
         padding-bottom: 50px;
     }
-    .fill__two {
+    .zigzag__picture-2 {
         padding-top: 50px;
     }
     .text__description-two {
@@ -671,7 +671,7 @@ form {
         text-align: center;
         padding: 10px 0;
     }
-    .fill {
+    .zigzag__picture {
         padding-top: 50px;
     }
     br.br__none {
@@ -688,7 +688,7 @@ form {
     .services {
         padding-bottom: 50px;
     }
-    .fill__two {
+    .zigzag__picture-2 {
         padding-top: 50px;
     }
     .text__description-two {
